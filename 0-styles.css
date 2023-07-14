@@ -1,0 +1,23 @@
+.headphones {
+    width: 1350px;
+    height: 700px;
+    background-image: url(https://cdn.discordapp.com/attachments/1125692955647279205/1128418792687542383/background.png);
+    margin-bottom: 100px;
+}
+
+.header_part {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menubar {
+    gap: 20px;
+}
+
+.lorem {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+}

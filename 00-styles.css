@@ -1,0 +1,72 @@
+body {
+    width: 375px;
+    height: 4860px;
+    top: -1835px;
+    left: 1921px;
+}
+
+.maining {
+    width: 375px;
+    height: 869px;
+    background-image: url(https://cdn.discordapp.com/attachments/1125692955647279205/1128418792687542383/background.png);
+}
+
+header {
+    width: 633px;
+    height: 32px;
+    top: 29px;
+    left: 66px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headph {
+    width: 161px;
+    height: 32px;
+    top: 29px;
+    left: 66px;
+}
+
+#menu-bar {
+    background-color: #f1f1f1;
+  }
+  
+  #menu-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #menu-bar li {
+    display: inline-block;
+  }
+  
+  #menu-bar li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  .lorem{
+    width: 357px;
+    height: 436px;
+    top: 327px;
+    left: 9px;
+  }
+
+  .ipsum {
+    width: 357px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .dolor {
+    width: 279px;
+    height: 40px;
+    top: 85px;
+    left: 39px;
+    display: flex;
+    justify-content: center;
+  }
